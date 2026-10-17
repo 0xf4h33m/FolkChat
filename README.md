@@ -10,15 +10,15 @@ FolkChat is **not yet presented as a finished or production-ready product**. Fea
 
 ## Downloads and APK availability
 
-Prebuilt release packages and Android APKs may be available through the project's GitHub releases or the version packages linked below. **An APK is an installable app build; it does not mean that the editable source code is included.**
+**Prebuilt Android APKs are available through the project's [GitHub Releases](https://github.com/0xf4h33m/FolkChat/releases), even though the editable source code is not currently published as a browsable source tree in this repository.** An APK is an installable app build; it does not mean that the editable source code is included.
 
-The repository currently contains these packaged builds:
+The repository also contains these packaged builds:
 
 - **Latest listed build:** [FolkChat v3](./FolkChat_v3.zip)
 - [FolkChat v2](./FolkChat_v2.zip)
 - [FolkChat v1](./FolkChat_v1.zip)
 
-The source code is **not currently published as a browsable source tree in this repository**. This project is still under development. A release ZIP or APK should be treated as a prebuilt binary package; do not assume it contains source code or that the build is reproducible.
+A release ZIP or APK should be treated as a prebuilt binary package; do not assume it contains source code or that the build is reproducible.
 
 For authenticity, use only downloads linked from this official repository or its GitHub Releases page. Unofficial copies, reuploads, repackaged APKs, and listings by unrelated accounts are not official FolkChat releases and are not endorsed by the project maintainer.
 
