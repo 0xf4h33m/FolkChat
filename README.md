@@ -1,8 +1,16 @@
 # FolkChat
 
-FolkChat is a peer-to-peer messaging app project focused on private, direct communication.
+**FolkChat is an independent messaging-app project maintained by [@0xf4h33m](https://github.com/0xf4h33m). It is currently under active development.**
 
-## Downloads
+FolkChat is focused on private, direct communication. Features, design, and compatibility may change while development continues. Releases are provided for testing and use at your own discretion.
+
+## Project status: under development
+
+FolkChat is **not yet presented as a finished or production-ready product**. Features may be incomplete, unstable, or changed between versions. Please report bugs through [GitHub Issues](https://github.com/0xf4h33m/FolkChat/issues).
+
+## Downloads and APK availability
+
+Prebuilt release packages and Android APKs may be available through the project's GitHub releases or the version packages linked below. **An APK is an installable app build; it does not mean that the editable source code is included.**
 
 The repository currently contains these packaged builds:
 
@@ -10,7 +18,9 @@ The repository currently contains these packaged builds:
 - [FolkChat v2](./FolkChat_v2.zip)
 - [FolkChat v1](./FolkChat_v1.zip)
 
-The ZIP files are packaged releases, not a browsable source tree. Download and extract a build, then follow any setup instructions included with that package. Check the version and contents before using it.
+The source code is **not currently published as a browsable source tree in this repository**. This project is still under development. A release ZIP or APK should be treated as a prebuilt binary package; do not assume it contains source code or that the build is reproducible.
+
+For authenticity, use only downloads linked from this official repository or its GitHub Releases page. Unofficial copies, reuploads, repackaged APKs, and listings by unrelated accounts are not official FolkChat releases and are not endorsed by the project maintainer.
 
 ## Project goals
 
@@ -26,12 +36,12 @@ These are project goals, not a guarantee that every feature is implemented or pr
 
 ## Getting started
 
-1. Open the ZIP link for the version you want.
-2. Download and extract the archive.
-3. Read any build-specific instructions included in the extracted files.
-4. Review the app's security and privacy behavior before sharing sensitive information.
+1. Choose a release package or APK from an official project link.
+2. Check the version and release notes, if provided.
+3. Follow any installation instructions included with that release.
+4. Review security and privacy behavior before sharing sensitive information.
 
-Build requirements, supported platforms, and installation steps can differ by release. This repository does not yet document a reproducible build process or a browsable source-code layout.
+Build requirements, supported platforms, and installation steps can differ by release. A reproducible build process and browsable source-code layout are not yet documented here.
 
 ## Security and privacy
 
@@ -39,14 +49,22 @@ Do not assume messages or files are end-to-end encrypted unless the implementati
 
 To report a bug, open an issue in the [GitHub repository](https://github.com/0xf4h33m/FolkChat/issues). Include reproducible steps and relevant logs, but never post passwords, tokens, private messages, or other sensitive data.
 
+## Project attribution and identity
+
+FolkChat is maintained and published here by **[@0xf4h33m](https://github.com/0xf4h33m)**. This repository's commit history, releases, and dated project records help document the project's development and publication history.
+
+Please do not falsely claim to be FolkChat's original creator or maintainer, or imply that an unofficial build, fork, reupload, or app-store listing is an official release. The name **FolkChat**, its logo, and project branding are not granted for reuse by the software license. This notice documents the project's stated attribution; it is not a trademark registration or a guarantee that others cannot make false claims.
+
+Copyright (c) 2026 0xf4h33m. The copyright notice applies to original project material owned by the maintainer. Third-party libraries, fonts, icons, and other assets may have separate copyright owners and license terms; see any applicable attribution files such as `FONTS_LICENSES.md`.
+
 ## Contributing
 
 Bug reports and suggestions are welcome. If you contribute code, include a clear description of the change and test steps. Source files and build instructions should be added to the repository in a structured form to make reviews and reproducible builds easier.
 
 ## License and no monetization
 
-FolkChat is licensed under the [PolyForm Noncommercial License 1.0.0](./LICENSE), not the MIT License. FolkChat is intended to remain free for noncommercial use. **You may not sell FolkChat or copies of it, charge users to download or access it, monetize its distribution, or make money from a FolkChat listing through ads, subscriptions, in-app purchases, paid features, or similar commercial methods.** This restriction applies to distribution through Google Play, the Apple App Store, and other app stores or marketplaces as well.
+FolkChat is licensed under the [PolyForm Noncommercial License 1.0.0](./LICENSE), not the MIT License. FolkChat is intended to remain free for noncommercial use. **You may not sell FolkChat or copies of it, charge users to download or access it, monetize its distribution, or make money from a FolkChat listing through ads, subscriptions, in-app purchases, paid features, or similar commercial methods.** This restriction applies to distribution through Google Play, the Apple App Store, and other app stores or marketplaces as described by the license.
 
-Noncommercial sharing and personal use are permitted under the license terms. The license does not grant rights to FolkChat's name, logo, or other trademarks.
+Anyone redistributing material covered by this license must provide the license terms or the license URL and preserve the required notice. The license does not grant rights to FolkChat's name, logo, or other trademarks.
 
-This license change applies to the project content offered under the new license. Previously distributed copies, including any release ZIPs that may contain the former MIT license, need to be checked and repackaged if necessary; this README update alone cannot retroactively change the terms that applied to copies already provided under MIT. Ensure any third-party code or assets bundled with FolkChat are handled under their own licenses.
+This license change does not automatically rewrite the terms that applied to copies already distributed under a previous license. Previously released ZIPs and APKs should be checked and repackaged as needed so their bundled notices and applicable license terms are clear. Third-party code and assets remain subject to their own licenses.
