@@ -2,14 +2,15 @@
 
 FolkChat is a peer-to-peer messaging app project focused on private, direct communication.
 
-## Project downloads
+## Downloads
 
-Pre-packaged builds currently available in this repository:
+The repository currently contains these packaged builds:
 
+- **Latest listed build:** [FolkChat v3](./FolkChat_v3.zip)
 - [FolkChat v2](./FolkChat_v2.zip)
 - [FolkChat v1](./FolkChat_v1.zip)
 
-Download a ZIP and extract it before following any setup instructions included with that build.
+The ZIP files are packaged releases, not a browsable source tree. Download and extract a build, then follow any setup instructions included with that package. Check the version and contents before using it.
 
 ## Project goals
 
@@ -21,25 +22,27 @@ FolkChat is being developed with a focus on:
 - A dedicated settings area and app lock
 - Connectivity across different networks, including mobile data and Wi-Fi
 
-These are project goals and do not guarantee that every feature is implemented or production-ready in every packaged version. Check the specific build before relying on a feature.
+These are project goals, not a guarantee that every feature is implemented or production-ready in every build. Verify the specific version before relying on a feature.
 
 ## Getting started
 
-1. Download the version you want from the links above.
-2. Extract the ZIP archive.
+1. Open the ZIP link for the version you want.
+2. Download and extract the archive.
 3. Read any build-specific instructions included in the extracted files.
-4. Use only with people you trust and avoid sharing sensitive information until you have reviewed the app's security and privacy behavior.
+4. Review the app's security and privacy behavior before sharing sensitive information.
 
-This repository currently distributes ZIP packages. Source code, build tooling, supported platforms, and reproducible build instructions may be added as the project evolves.
+Build requirements, supported platforms, and installation steps can differ by release. This repository does not yet document a reproducible build process or a browsable source-code layout.
 
 ## Security and privacy
 
-Do not assume messages or files are end-to-end encrypted unless the implementation and its security design have been independently verified. Report bugs or security concerns through the repository's Issues page.
+Do not assume messages or files are end-to-end encrypted unless the implementation and its security design have been verified. Test network behavior and security properties before using FolkChat for sensitive communications.
+
+To report a bug, open an issue in the [GitHub repository](https://github.com/0xf4h33m/FolkChat/issues). Include reproducible steps and relevant logs, but never post passwords, tokens, private messages, or other sensitive data.
 
 ## Contributing
 
-Contributions, bug reports, and suggestions are welcome. Include clear reproduction steps for bugs and avoid posting private data, credentials, or sensitive conversation contents.
+Bug reports and suggestions are welcome. If you contribute code, include a clear description of the change and test steps. Source files and build instructions should be added to the repository in a structured form to make reviews and reproducible builds easier.
 
 ## License
 
-FolkChat is released under the MIT License. See [LICENSE](./LICENSE) for details.
+FolkChat is distributed under the [MIT License](./LICENSE). The MIT License permits reuse, modification, and redistribution subject to its terms. Confirm that all bundled code and assets are yours to license or are compatible with this license before distributing the project.
