@@ -43,6 +43,10 @@ To report a bug, open an issue in the [GitHub repository](https://github.com/0xf
 
 Bug reports and suggestions are welcome. If you contribute code, include a clear description of the change and test steps. Source files and build instructions should be added to the repository in a structured form to make reviews and reproducible builds easier.
 
-## License
+## License and no monetization
 
-FolkChat is distributed under the [MIT License](./LICENSE). The MIT License permits reuse, modification, and redistribution subject to its terms. Confirm that all bundled code and assets are yours to license or are compatible with this license before distributing the project.
+FolkChat is licensed under the [PolyForm Noncommercial License 1.0.0](./LICENSE), not the MIT License. FolkChat is intended to remain free for noncommercial use. **You may not sell FolkChat or copies of it, charge users to download or access it, monetize its distribution, or make money from a FolkChat listing through ads, subscriptions, in-app purchases, paid features, or similar commercial methods.** This restriction applies to distribution through Google Play, the Apple App Store, and other app stores or marketplaces as well.
+
+Noncommercial sharing and personal use are permitted under the license terms. The license does not grant rights to FolkChat's name, logo, or other trademarks.
+
+This license change applies to the project content offered under the new license. Previously distributed copies, including any release ZIPs that may contain the former MIT license, need to be checked and repackaged if necessary; this README update alone cannot retroactively change the terms that applied to copies already provided under MIT. Ensure any third-party code or assets bundled with FolkChat are handled under their own licenses.
